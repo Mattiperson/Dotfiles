@@ -1,0 +1,64 @@
+Nov 10 14:54 : exception: Failed to open '/home/mattheus/.mpd/mpdstate': No such file or directory
+Nov 10 14:54 : config: option 'device' on line 13 was not recognized
+Nov 10 14:54 : update: added spiderverse/Beau Young Prince - Let Go.webm
+Nov 10 14:54 : update: added spiderverse/Blackway & Black Caviar - 'What's Up Danger' (Spider-Man - Into the Spider-Verse) [Official Audio].webm
+Nov 10 14:54 : update: added spiderverse/Elevate.webm
+Nov 10 14:54 : update: added spiderverse/Familia (Spider-Man - Into the Spider-Verse).webm
+Nov 10 14:54 : update: added spiderverse/Hide.webm
+Nov 10 14:54 : update: added spiderverse/Home.webm
+Nov 10 14:54 : update: added spiderverse/Invincible.webm
+Nov 10 14:54 : update: added spiderverse/Post Malone, Swae Lee - Sunflower (Spider-Man - Into the Spider-Verse).webm
+Nov 10 14:54 : update: added spiderverse/Save The Day.webm
+Nov 10 14:54 : update: added spiderverse/Scared of the Dark.webm
+Nov 10 14:54 : update: added spiderverse/Start a Riot.webm
+Nov 10 14:54 : update: added spiderverse/Thutmose - Memories (SpiderMan - Into The SpiderVerse Soundtrack) (Official Music Video).m4a
+Nov 10 14:54 : update: added spiderverse/Way Up.webm
+Nov 10 14:54 : update: added art of doubt/Dark Saturday.webm
+Nov 10 14:54 : update: added art of doubt/Love You Back.webm
+Nov 10 14:54 : update: added art of doubt/Die Happy.webm
+Nov 10 14:54 : update: added art of doubt/Now or Never Now.webm
+Nov 10 14:54 : update: added art of doubt/Art of Doubt.webm
+Nov 10 14:54 : update: added art of doubt/Underline the Black.webm
+Nov 10 14:54 : update: added art of doubt/Dressed to Suppress.webm
+Nov 10 14:54 : update: added art of doubt/Risk.webm
+Nov 10 14:54 : update: added art of doubt/Seven Rules.webm
+Nov 10 14:54 : update: added art of doubt/Holding Out.webm
+Nov 10 14:54 : update: added art of doubt/Anticipate.webm
+Nov 10 14:54 : update: added art of doubt/No Lights on the Horizon.webm
+Nov 10 14:54 : update: added thutmouse/Thutmose - On The Run (Official Performance Video).webm
+Nov 10 14:54 : update: added thutmouse/Thutmose - Fashionably Late (Official Audio).webm
+Nov 10 15:12 : config: option 'device' on line 14 was not recognized
+Nov 10 15:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:22 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 10 15:22 : player: played "art of doubt/Anticipate.webm"
+Nov 10 15:24 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:24 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:24 : player: played "thutmouse/Thutmose - On The Run (Official Performance Video).webm"
+Nov 10 15:24 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:25 : player: played "thutmouse/Thutmose - On The Run (Official Performance Video).webm"
+Nov 10 15:25 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:28 : player: played "thutmouse/Thutmose - On The Run (Official Performance Video).webm"
+Nov 10 15:28 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:32 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 10 15:32 : player: played "thutmouse/Thutmose - On The Run (Official Performance Video).webm"
+Nov 10 15:34 : player: played "spiderverse/Thutmose - Memories (SpiderMan - Into The SpiderVerse Soundtrack) (Official Music Video).m4a"
+Nov 10 15:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 15:37 : player: played "spiderverse/Thutmose - Memories (SpiderMan - Into The SpiderVerse Soundtrack) (Official Music Video).m4a"
+Nov 10 17:13 : player: played "spiderverse/Thutmose - Memories (SpiderMan - Into The SpiderVerse Soundtrack) (Official Music Video).m4a"
+Nov 10 18:06 : config: option 'device' on line 14 was not recognized
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:16 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:20 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Nov 10 18:20 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Nov 10 18:20 : player: played "art of doubt/Dark Saturday.webm"
